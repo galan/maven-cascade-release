@@ -31,3 +31,6 @@ A groovy-application which helps to release a tree of dependent maven-projects, 
 
     cascade-release -p $HOME/workspace -s my-lib
 
+### Disclamer
+
+Originally developed at [Joblift GmbH](https://joblift.de/).
